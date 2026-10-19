@@ -6,10 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/hepded/ryadom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ryadom-dark.svg"><img src="assets/project-ryadom-light.svg" width="49%" alt="ryadom"></picture></a>&nbsp;<a href="https://github.com/hepded/ClassicPod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-classicpod-dark.svg"><img src="assets/project-classicpod-light.svg" width="49%" alt="ClassicPod"></picture></a>
-
-<a href="https://github.com/hepded/telegram-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegram-bot-dark.svg"><img src="assets/project-telegram-bot-light.svg" width="49%" alt="telegram-bot"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
